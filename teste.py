@@ -1,6 +1,4 @@
 __author__ = 'Matheus';
-"""
-print("Aprendendo a usar comentarios");
-#print("Segunda linha");
-"""
-print("Terceira linha");
+a = 10;
+b = 20;
+print(a + b);
