@@ -1,2 +1,4 @@
 __author__ = 'Claudio';
-print("Seja bem vindo ao python");
+print("Aprendendo a usar comentarios");
+#print("Segunda linha");
+print("Terceira linha");
